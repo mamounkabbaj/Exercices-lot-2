@@ -1,3 +1,4 @@
+//~20 minutes
 #include <stdio.h>
 int main(void){
 int notes;
